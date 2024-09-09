@@ -1,0 +1,5 @@
+Django==5.1.1
+python-dotenv
+authlib
+psycopg2-binary
+django-allauth
